@@ -1,14 +1,14 @@
-vim-setting
+# vim-setting
 
 This is my vim setting for python and VASP input files. A beautiful colorscheme could profoundly improve your working proficiency! Enjoy it!
 
-#Install
+## Install
 ```bash
 cp .vim ~
 cp .vimrc ~
 ```
 
-#Screenshots
+## Screenshots
 
 Highlighs in POSCAR
 ![typescript](screenshots/POSCAR.png)
