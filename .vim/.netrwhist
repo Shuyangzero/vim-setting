@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/shuyangyang/.vim'
+let g:netrw_dirhist_2='/home/shuyangyang/.vim/colors'
+let g:netrw_dirhist_3='/home/shuyangyang/.vim/colors/ftdetect'
+let g:netrw_dirhist_4='/home/shuyangyang/.vim'
